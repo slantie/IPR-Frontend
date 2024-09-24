@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { RiEyeLine, RiEyeOffLine } from "react-icons/ri";
 import { Link, useNavigate } from "react-router-dom";
-import login from "../../public/login.svg";
+// import login from "../../public/login.svg";
 import axios from "axios";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";

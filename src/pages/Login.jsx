@@ -7,7 +7,7 @@ import {
   signInSuccess,
   signInFailure,
 } from "../slices/userSlice.js";
-import login from "../../public/login.svg";
+// import login from "../../public/login.svg";
 import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
